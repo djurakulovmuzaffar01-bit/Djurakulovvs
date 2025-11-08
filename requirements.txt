@@ -1,0 +1,4 @@
+# requirements.txt
+Flask==3.0.3
+aiogram==2.25.2
+python-dotenv==1.0.1

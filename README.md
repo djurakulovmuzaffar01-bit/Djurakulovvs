@@ -1,2 +1,0 @@
-# Djurakulovvs
-xzxz
